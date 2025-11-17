@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Data Bridge Prototyper",
+  "description": "A developer tool to prototype data masking logic, simulate API responses, and generate corresponding Spring Boot and Oracle PL/SQL code for data ingestion workflows.",
+  "requestFramePermissions": []
+}
